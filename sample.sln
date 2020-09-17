@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenIdProvider", "src\OpenIdProvider\OpenIdProvider.csproj", "{8C9154E2-A438-4433-88AA-0F71104FE094}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{43C92669-4C8C-462F-BE1D-BA4D97BF5673}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C9154E2-A438-4433-88AA-0F71104FE094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C9154E2-A438-4433-88AA-0F71104FE094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C9154E2-A438-4433-88AA-0F71104FE094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C9154E2-A438-4433-88AA-0F71104FE094}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8C9154E2-A438-4433-88AA-0F71104FE094} = {43C92669-4C8C-462F-BE1D-BA4D97BF5673}
+	EndGlobalSection
+EndGlobal
