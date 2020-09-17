@@ -3,7 +3,7 @@
 ## Everlearn
 
 ### Single sign-on
-- [Sample tích hợp single sign-on với Everlearn](src/OpenIdProvider/README.md)
+- [Sample tích hợp single sign-on với Everlearn](src/OpenIdProvider)
 
 ### Backend-to-backend communicate
 - [Authorize sử dụng client credetials](https://github.com/dgmteam/technical-manuals/wiki/Everlearn:-Authorize-b%E1%BA%B1ng-client-credentials-v%C3%A0-t%E1%BA%A1o-m%E1%BB%9Bi-learner)
